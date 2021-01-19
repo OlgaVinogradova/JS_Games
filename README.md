@@ -1,1 +1,1 @@
-Olga_FinalGame_JS
+https://olgavinogradova.github.io/JS_Games/
